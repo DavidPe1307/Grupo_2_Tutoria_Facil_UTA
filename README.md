@@ -12,7 +12,7 @@
 
 ## Enlaces
 - FigJam / PDF del análisis: (pendiente)
-- Prototipo Figma/Penpot: (pendiente)
+- Prototipo Figma: https://www.figma.com/design/37sG9AKc1SGTBcWSfmxwC9/Prueba_Primer_Parcial_HCI?node-id=0-1&t=NnzjJvzd4Bh22PCk-1
 
 ## Estructura del repositorio
 - `docs/`: PDFs del análisis (matriz IHC, usabilidad, DCU, decisiones de diseño)
