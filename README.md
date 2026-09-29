@@ -8,7 +8,7 @@
 |---|---|---|
 | Sheyla Pacha | @Zzzheyla | Analista DCU |
 | Martin Palacios | @killer13233 | Diseño y accesibilidad |
-| David | @DavidPe1307 | Prototipado y evaluación |
+| David Pérez | @DavidPe1307 | Prototipado y evaluación |
 
 ## Enlaces
 - FigJam / PDF del análisis: (pendiente)
