@@ -1,0 +1,1 @@
+https://www.figma.com/design/37sG9AKc1SGTBcWSfmxwC9/Prueba_Primer_Parcial_HCI?node-id=0-1&t=NnzjJvzd4Bh22PCk-1
